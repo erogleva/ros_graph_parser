@@ -27,4 +27,4 @@ rosrun ros_graph_parser java_snapshot  *ros_model_file* *ros_system_file* *syste
 * *system_name*: name of the system (check ros_model syntax)
 * *package_name*" name of the package (check ros_model syntax)
 
-All the files will be saved in the resources folder of the ros_graph_parser.
+All the files will be saved in the results folder of the ros_graph_parser.
